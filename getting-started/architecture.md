@@ -5,6 +5,8 @@ readTime: 2 min read
 
 # Architecture
 
+This is more content.
+
 **Directus is a wrapper for both your database and file asset storage system.**
 
 At first glance, it may be tempting to think of Directus as an app-centric platform. But that's not the case. The app is
